@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Apache Ant 1.5.1
+Built-By: jhollen
+Main-Class: im.control.P2PIM
+123
